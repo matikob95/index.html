@@ -1,2 +1,22 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+<html lang="pl">
+<head>
+    <meta charstet= "UTF-8">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <title>Mateusz Kobylski</title>
+    <link href="css/style.css" rel="stylesheet">
+    <style>
+         .naglowek {
+            color:blue
+    </style>
+</head>
+<body>
+    <h1 class="naglowek">Mateusz Kobylski</h1>
+    <h2>Kim jestem?</h2>
+    Magister Logistyki i zarządzania firmą. Licencjat na Dziennikarstwie i komunikacji społecznej UMK w Toruniu na specjalizaji Nowe Media. Interesuję się Excelem, programowaniem i językami obcymi. W wolnym czasie lubię również sięgnąć po książkę i posłuchać muzyki.    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis id animi, blanditiis repellat earum natus cumque ex nihil? Eveniet quo natus architecto saepe harum enim voluptas earum adipisci optio corporis. </p>
+    Pracowałem zagranicą w Szwecji w czterogwiazdkowym hotelu, gdzie uczyłem się angielskiego co dzień. Oprócz tego pracowałem w Niderlandach w 2020 roku oraz w Niemczech. Na co dzień mówię w języku angielskim  na poziomie B2 i niemiecki poziom A2 w mowie i piśmie. Uwielbiam podróżować i poznawać nowe kultury.
+    <h2>Kolejny nagłówek 2.poziomu</h2>
+    Aktualnie pracuje jako logistyk w sklepie budowlanym. Chciałbym jednak pracować w bardziej kreatywnej pracy, gdzie każdego dnia można tworzyć nowe rzeczy.
+    
